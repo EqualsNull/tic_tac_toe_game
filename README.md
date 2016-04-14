@@ -1,5 +1,5 @@
 ## USAGE
-'''shell
+```shell
 make
 ./tic_tac_toe_game.exe
-'''
+```
