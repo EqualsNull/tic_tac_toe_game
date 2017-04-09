@@ -6,6 +6,8 @@
  *
  */
 
+// TODO: MAKE A PRETTIER UI!!
+
 #include <iostream>
 #include <iomanip>
 #include "tictactoe.h"
